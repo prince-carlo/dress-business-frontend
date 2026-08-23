@@ -1,0 +1,15 @@
+@use '../styles/variables' as v;
+
+.hero {
+  padding: v.$space-12 v.$space-4;
+  text-align: center;
+}
+
+.title {
+  font-size: v.$font-size-xl;
+  color: v.$color-primary;
+}
+
+.subtitle {
+  color: v.$color-text-muted;
+}

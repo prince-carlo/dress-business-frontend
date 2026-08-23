@@ -1,0 +1,32 @@
+// Design tokens — placeholder values, swap for brand colors/type before Phase 1.
+
+// Colors
+$color-primary: #131921;
+$color-accent: #febd69;
+$color-bg: #ffffff;
+$color-text: #0f1111;
+$color-text-muted: #565959;
+$color-border: #d5d9d9;
+$color-success: #007600;
+$color-error: #b12704;
+
+// Spacing scale (4px base)
+$space-1: 0.25rem;
+$space-2: 0.5rem;
+$space-3: 0.75rem;
+$space-4: 1rem;
+$space-6: 1.5rem;
+$space-8: 2rem;
+$space-12: 3rem;
+
+// Breakpoints
+$breakpoint-sm: 480px;
+$breakpoint-md: 768px;
+$breakpoint-lg: 1024px;
+$breakpoint-xl: 1280px;
+
+// Type scale
+$font-size-sm: 0.875rem;
+$font-size-base: 1rem;
+$font-size-lg: 1.25rem;
+$font-size-xl: 1.5rem;
